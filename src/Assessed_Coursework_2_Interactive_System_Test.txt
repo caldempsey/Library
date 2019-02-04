@@ -1,0 +1,3600 @@
+"C:\Program Files\Java\jdk1.8.0_111\bin\java" -Didea.launcher.port=7535 "-Didea.launcher.bin.path=C:\Program Files (x86)\JetBrains\IntelliJ IDEA 2016.2.5\bin" -Dfile.encoding=UTF-8 -classpath "C:\Program Files\Java\jdk1.8.0_111\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\deploy.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\access-bridge-64.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\cldrdata.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\dnsns.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\jaccess.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\jfxrt.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\localedata.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\nashorn.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\sunec.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\sunjce_provider.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\sunmscapi.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\sunpkcs11.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\zipfs.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\javaws.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\jfxswt.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\management-agent.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\plugin.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\rt.jar;C:\Users\mmacheerpuppy\Google Drive\Study\Newcastle University Hub\CSC8001\Assignment 3\Assignment3\out\production\Assignment3;C:\Program Files (x86)\JetBrains\IntelliJ IDEA 2016.2.5\lib\idea_rt.jar" com.intellij.rt.execution.application.AppMain LibraryIO
+Library Interactive System: Initialisation
+
+Please enter the path to the file (with extension) containing the data you would like to import, or type 'f' to exit.
+Alternatively, pressing enter will use the file at the default path 'C:/librarydata/inputdata.txt' for your operating system.
+
+> ..
+
+The file at .. could not be read.
+Please validate the file exists and ensure your local system administrator has granted you permissions to read that file.
+
+Please press enter to continue.
+
+Library Interactive System: Initialisation
+
+Please enter the path to the file (with extension) containing the data you would like to import, or type 'f' to exit.
+Alternatively, pressing enter will use the file at the default path 'C:/librarydata/inputdata.txt' for your operating system.
+
+> C:/librarydata/return notice.txt
+
+The format of your data is incorrect.
+Please check your data and try again.
+
+Please press enter to continue.
+
+Library Interactive System: Initialisation
+
+Please enter the path to the file (with extension) containing the data you would like to import, or type 'f' to exit.
+Alternatively, pressing enter will use the file at the default path 'C:/librarydata/inputdata.txt' for your operating system.
+
+> 0000
+
+The file at 0000 could not be read.
+Please validate the file exists and ensure your local system administrator has granted you permissions to read that file.
+
+Please press enter to continue.
+
+Library Interactive System: Initialisation
+
+Please enter the path to the file (with extension) containing the data you would like to import, or type 'f' to exit.
+Alternatively, pressing enter will use the file at the default path 'C:/librarydata/inputdata.txt' for your operating system.
+
+> 39393
+
+The file at 39393 could not be read.
+Please validate the file exists and ensure your local system administrator has granted you permissions to read that file.
+
+Please press enter to continue.
+
+Library Interactive System: Initialisation
+
+Please enter the path to the file (with extension) containing the data you would like to import, or type 'f' to exit.
+Alternatively, pressing enter will use the file at the default path 'C:/librarydata/inputdata.txt' for your operating system.
+
+> C:/test
+
+The file at C:/test could not be read.
+Please validate the file exists and ensure your local system administrator has granted you permissions to read that file.
+
+Please press enter to continue.
+
+Library Interactive System: Initialisation
+
+Please enter the path to the file (with extension) containing the data you would like to import, or type 'f' to exit.
+Alternatively, pressing enter will use the file at the default path 'C:/librarydata/inputdata.txt' for your operating system.
+
+> 
+
+Success!
+
+Welcome to the application!
+
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> i
+
+Library Interactive System: issue
+
+Please select the details of the user, and book you would like to issue using the options below.
+1. User Details: 
+2. Book Details: 
+3. Submit
+4. Return to the previous menu.
+
+> 1
+
+Would you like to input the User ID or would you like to search by other details? Press enter to return to the previous selection screen.
+1. User ID.
+2. Other details (either user forename or user surname) This is a case-sensitive operation.
+u. Print a list of all users to the screen.
+
+> 1
+
+Please enter the User ID you would like to search by...
+
+> -1
+
+A User ID must be an integer over 0.
+Please press enter to return to the selection screen
+
+
+Library Interactive System: issue
+
+Please select the details of the user, and book you would like to issue using the options below.
+1. User Details: 
+2. Book Details: 
+3. Submit
+4. Return to the previous menu.
+
+> 1
+
+Would you like to input the User ID or would you like to search by other details? Press enter to return to the previous selection screen.
+1. User ID.
+2. Other details (either user forename or user surname) This is a case-sensitive operation.
+u. Print a list of all users to the screen.
+
+> 999
+
+Library Interactive System: issue
+
+Please select the details of the user, and book you would like to issue using the options below.
+1. User Details: 
+2. Book Details: 
+3. Submit
+4. Return to the previous menu.
+
+> 1
+
+Would you like to input the User ID or would you like to search by other details? Press enter to return to the previous selection screen.
+1. User ID.
+2. Other details (either user forename or user surname) This is a case-sensitive operation.
+u. Print a list of all users to the screen.
+
+> 1
+
+Please enter the User ID you would like to search by...
+
+> 9999
+
+Library Interactive System: issue
+
+Please select the details of the user, and book you would like to issue using the options below.
+1. User Details: [User ID] 9999
+2. Book Details: 
+3. Submit
+4. Return to the previous menu.
+
+> 2
+
+Would you like to input the Book ID or would you like to search by other details? Press enter to return to the previous selection screen.
+1. Book ID.
+2. Other details (either author forename, surname, or book title). This is a case-sensitive operation.
+b. Print a list of all books to the screen.
+
+> 1
+
+Please enter the Book ID you would like to search by...
+
+> 9999
+
+Library Interactive System: issue
+
+Please select the details of the user, and book you would like to issue using the options below.
+1. User Details: [User ID] 9999
+2. Book Details: [Book ID] 9999
+3. Submit
+4. Return to the previous menu.
+
+> 3
+
+Searching users...
+
+Could not find user 9999
+
+Please press enter to return to the selection menu.
+
+
+Library Interactive System: issue
+
+Please select the details of the user, and book you would like to issue using the options below.
+1. User Details: 
+2. Book Details: [Book ID] 9999
+3. Submit
+4. Return to the previous menu.
+
+> 1
+
+Would you like to input the User ID or would you like to search by other details? Press enter to return to the previous selection screen.
+1. User ID.
+2. Other details (either user forename or user surname) This is a case-sensitive operation.
+u. Print a list of all users to the screen.
+
+> 1
+
+Please enter the User ID you would like to search by...
+
+> 1
+
+Library Interactive System: issue
+
+Please select the details of the user, and book you would like to issue using the options below.
+1. User Details: [User ID] 1
+2. Book Details: 9999
+3. Submit
+4. Return to the previous menu.
+
+> 3
+
+Searching users...
+
+Success.
+
+Searching books...
+
+Could not find book 9999
+
+Please press enter to return to the selection menu.
+
+
+Library Interactive System: issue
+
+Please select the details of the user, and book you would like to issue using the options below.
+1. User Details: [User ID] 1
+2. Book Details: 
+3. Submit
+4. Return to the previous menu.
+
+> 2
+
+Would you like to input the Book ID or would you like to search by other details? Press enter to return to the previous selection screen.
+1. Book ID.
+2. Other details (either author forename, surname, or book title). This is a case-sensitive operation.
+b. Print a list of all books to the screen.
+
+> 1
+
+Please enter the Book ID you would like to search by...
+
+> -1
+
+A Book ID must be an integer over 0.
+Please press enter to return to the selection screen
+
+
+Library Interactive System: issue
+
+Please select the details of the user, and book you would like to issue using the options below.
+1. User Details: [User ID] 1
+2. Book Details: 
+3. Submit
+4. Return to the previous menu.
+
+> 1
+
+Would you like to input the User ID or would you like to search by other details? Press enter to return to the previous selection screen.
+1. User ID.
+2. Other details (either user forename or user surname) This is a case-sensitive operation.
+u. Print a list of all users to the screen.
+
+> 1
+
+Please enter the User ID you would like to search by...
+
+> -1
+
+A User ID must be an integer over 0.
+Please press enter to return to the selection screen
+
+
+Library Interactive System: issue
+
+Please select the details of the user, and book you would like to issue using the options below.
+1. User Details: 1
+2. Book Details: 
+3. Submit
+4. Return to the previous menu.
+
+> 1
+
+Would you like to input the User ID or would you like to search by other details? Press enter to return to the previous selection screen.
+1. User ID.
+2. Other details (either user forename or user surname) This is a case-sensitive operation.
+u. Print a list of all users to the screen.
+
+> 2
+
+Please enter additional details (either forename or surname) you would like to search by...
+
+> Zoe
+
+Library Interactive System: issue
+
+Please select the details of the user, and book you would like to issue using the options below.
+1. User Details: Zoe
+2. Book Details: 
+3. Submit
+4. Return to the previous menu.
+
+> 2
+
+Would you like to input the Book ID or would you like to search by other details? Press enter to return to the previous selection screen.
+1. Book ID.
+2. Other details (either author forename, surname, or book title). This is a case-sensitive operation.
+b. Print a list of all books to the screen.
+
+> 2
+
+Please enter additional details (Author, Title .etc.) you would like to search by...
+
+> Java
+
+Library Interactive System: issue
+
+Please select the details of the user, and book you would like to issue using the options below.
+1. User Details: Zoe
+2. Book Details: Java
+3. Submit
+4. Return to the previous menu.
+
+> 3
+
+Searching users...
+
+Success.
+
+Searching books...
+
+The system will attempt to issue...
+
+Book ID. Author Surname, Author Forename. Title. On Loan[?].
+
+2. Bishop, Judith. Java Gently. No.
+
+To user...
+
+User ID. Surname, Forename. Books Loaned.
+
+1. Brown, Zoe. 0.
+
+Please type 'yes' or 'y' to confirm the above details are correct. Please input any other data to return back to the main menu.
+
+> y
+
+The book has been successfully issued to the user.
+Brown, Zoe has now loaned 1 items.
+Pressing enter will return you to the main menu.
+
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> i:id
+
+Please enter the User ID you would like to issue a book to. Otherwise press enter to return to the main menu.
+
+> 1
+
+Please enter the Book ID you would like to issue.
+
+> 1
+
+The system will attempt to issue...
+
+Book ID. Author Surname, Author Forename. Title. On Loan[?].
+
+1. Arnold, Andre. Finite Transition Systems. No.
+
+To user...
+
+User ID. Surname, Forename. Books Loaned.
+
+1. Brown, Zoe. 1.
+
+Please type 'yes' or 'y' to confirm the above details are correct. Please input any other data to return back to the main menu.
+
+> y
+
+The book has been successfully issued to the user.
+Brown, Zoe has now loaned 2 items.
+Pressing enter will return you to the main menu.
+
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> i
+
+Library Interactive System: issue
+
+Please select the details of the user, and book you would like to issue using the options below.
+1. User Details: 
+2. Book Details: 
+3. Submit
+4. Return to the previous menu.
+
+> 1
+
+Would you like to input the User ID or would you like to search by other details? Press enter to return to the previous selection screen.
+1. User ID.
+2. Other details (either user forename or user surname) This is a case-sensitive operation.
+u. Print a list of all users to the screen.
+
+> 1
+
+Please enter the User ID you would like to search by...
+
+> 1
+
+Library Interactive System: issue
+
+Please select the details of the user, and book you would like to issue using the options below.
+1. User Details: [User ID] 1
+2. Book Details: 
+3. Submit
+4. Return to the previous menu.
+
+> 2
+
+Would you like to input the Book ID or would you like to search by other details? Press enter to return to the previous selection screen.
+1. Book ID.
+2. Other details (either author forename, surname, or book title). This is a case-sensitive operation.
+b. Print a list of all books to the screen.
+
+> 2
+
+Please enter additional details (Author, Title .etc.) you would like to search by...
+
+> Programming
+
+Library Interactive System: issue
+
+Please select the details of the user, and book you would like to issue using the options below.
+1. User Details: [User ID] 1
+2. Book Details: Programming
+3. Submit
+4. Return to the previous menu.
+
+> y
+
+Library Interactive System: issue
+
+Please select the details of the user, and book you would like to issue using the options below.
+1. User Details: [User ID] 1
+2. Book Details: Programming
+3. Submit
+4. Return to the previous menu.
+
+> 3
+
+Searching users...
+
+Success.
+
+Searching books...
+Books have been found and are presented below...
+Book ID. Author Surname, Author Forename(s). Title. On Loan[?].
+
+3. Hartley, Stephen J..Concurrent Programming. No.
+5. Snow, C. R..Concurrent Programming. No.
+
+Please select a Book ID in order to narrow the search. Pressing enter will return you to the selection screen.
+
+> 4
+
+The system will attempt to issue...
+
+Book ID. Author Surname, Author Forename. Title. On Loan[?].
+
+4. Reisig, Wolfgang. Petri Nets. No.
+
+To user...
+
+User ID. Surname, Forename. Books Loaned.
+
+1. Brown, Zoe. 2.
+
+Please type 'yes' or 'y' to confirm the above details are correct. Please input any other data to return back to the main menu.
+
+> n
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> i:id
+
+Please enter the User ID you would like to issue a book to. Otherwise press enter to return to the main menu.
+
+> 1
+
+Please enter the Book ID you would like to issue.
+
+> 1
+
+The system will attempt to issue...
+
+Book ID. Author Surname, Author Forename. Title. On Loan[?].
+
+1. Arnold, Andre. Finite Transition Systems. Yes.
+
+To user...
+
+User ID. Surname, Forename. Books Loaned.
+
+1. Brown, Zoe. 2.
+
+Please type 'yes' or 'y' to confirm the above details are correct. Please input any other data to return back to the main menu.
+
+> y
+
+The book is already on loan
+
+Wrote return notice to C:/librarydata/return notice.txt.
+
+Pressing enter will return you to the main menu.
+
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> -1
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> -9
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> b
+
+Book ID. Author Surname, Author Forename. Title. On Loan[?].
+
+1. Arnold, Andre. Finite Transition Systems. Yes.
+2. Bishop, Judith. Java Gently. Yes.
+3. Hartley, Stephen J.. Concurrent Programming. No.
+4. Reisig, Wolfgang. Petri Nets. No.
+5. Snow, C. R.. Concurrent Programming. No.
+
+Please press enter to continue.
+u
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> u
+
+User ID. Surname, Forename. Books Loaned.
+
+1. Brown, Zoe. 2.
+2. Smith, Anna. 0.
+3. Smith, John. 0.
+4. Williams, John. 0.
+
+Please press enter to continue.
+
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> i:id 1
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> i:id 1
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> i:id
+
+Please enter the User ID you would like to issue a book to. Otherwise press enter to return to the main menu.
+
+> 1
+
+Please enter the Book ID you would like to issue.
+
+> 1
+
+The system will attempt to issue...
+
+Book ID. Author Surname, Author Forename. Title. On Loan[?].
+
+1. Arnold, Andre. Finite Transition Systems. Yes.
+
+To user...
+
+User ID. Surname, Forename. Books Loaned.
+
+1. Brown, Zoe. 2.
+
+Please type 'yes' or 'y' to confirm the above details are correct. Please input any other data to return back to the main menu.
+
+> y
+
+The book is already on loan
+
+Wrote return notice to C:/librarydata/return notice.txt.
+
+Pressing enter will return you to the main menu.
+
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> i:id
+
+Please enter the User ID you would like to issue a book to. Otherwise press enter to return to the main menu.
+
+> 1
+
+Please enter the Book ID you would like to issue.
+
+> 1
+
+The system will attempt to issue...
+
+Book ID. Author Surname, Author Forename. Title. On Loan[?].
+
+1. Arnold, Andre. Finite Transition Systems. Yes.
+
+To user...
+
+User ID. Surname, Forename. Books Loaned.
+
+1. Brown, Zoe. 2.
+
+Please type 'yes' or 'y' to confirm the above details are correct. Please input any other data to return back to the main menu.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> u
+
+User ID. Surname, Forename. Books Loaned.
+
+1. Brown, Zoe. 2.
+2. Smith, Anna. 0.
+3. Smith, John. 0.
+4. Williams, John. 0.
+
+Please press enter to continue.
+
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> r:id
+
+Please enter the User ID you would like to return a book from.
+
+> 1
+
+Please enter the Book ID you would like to return.
+
+> 1
+
+The system will attempt to return...
+
+Book ID. Author Surname, Author Forename. Title. On Loan[?]
+
+1. Arnold, Andre. Finite Transition Systems. Yes.
+
+From user...
+
+User ID. Surname, Forename. Books Loaned.
+
+1. Brown, Zoe. 2.
+
+Please type 'yes' or 'y' to confirm the above details are correct. Please input any other data to return back to the main menu.
+
+> y
+
+The book has been successfully returned.
+Brown, Zoe has now loaned 1 items.
+
+Pressing enter will return you to the main menu.
+
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> u
+
+User ID. Surname, Forename. Books Loaned.
+
+1. Brown, Zoe. 1.
+2. Smith, Anna. 0.
+3. Smith, John. 0.
+4. Williams, John. 0.
+
+Please press enter to continue.
+
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> i:id
+
+Please enter the User ID you would like to issue a book to. Otherwise press enter to return to the main menu.
+
+> 2
+
+Please enter the Book ID you would like to issue.
+
+> 1
+
+The system will attempt to issue...
+
+Book ID. Author Surname, Author Forename. Title. On Loan[?].
+
+1. Arnold, Andre. Finite Transition Systems. No.
+
+To user...
+
+User ID. Surname, Forename. Books Loaned.
+
+2. Smith, Anna. 0.
+
+Please type 'yes' or 'y' to confirm the above details are correct. Please input any other data to return back to the main menu.
+
+> y
+
+The book has been successfully issued to the user.
+Smith, Anna has now loaned 1 items.
+Pressing enter will return you to the main menu.
+
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> r:id
+
+Please enter the User ID you would like to return a book from.
+
+> 1
+
+Please enter the Book ID you would like to return.
+
+> 1
+
+The system will attempt to return...
+
+Book ID. Author Surname, Author Forename. Title. On Loan[?]
+
+1. Arnold, Andre. Finite Transition Systems. Yes.
+
+From user...
+
+User ID. Surname, Forename. Books Loaned.
+
+1. Brown, Zoe. 1.
+
+Please type 'yes' or 'y' to confirm the above details are correct. Please input any other data to return back to the main menu.
+
+> y
+
+The book is not on loan to this user.
+Pressing enter will return you to the main menu.
+
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> i:id
+
+Please enter the User ID you would like to issue a book to. Otherwise press enter to return to the main menu.
+
+> 2
+
+Please enter the Book ID you would like to issue.
+
+> 2
+
+The system will attempt to issue...
+
+Book ID. Author Surname, Author Forename. Title. On Loan[?].
+
+2. Bishop, Judith. Java Gently. Yes.
+
+To user...
+
+User ID. Surname, Forename. Books Loaned.
+
+2. Smith, Anna. 1.
+
+Please type 'yes' or 'y' to confirm the above details are correct. Please input any other data to return back to the main menu.
+
+> y
+
+The book is already on loan
+
+Wrote return notice to C:/librarydata/return notice.txt.
+
+Pressing enter will return you to the main menu.
+
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> i:id
+
+Please enter the User ID you would like to issue a book to. Otherwise press enter to return to the main menu.
+
+> 5
+
+Please enter the Book ID you would like to issue.
+
+> 5
+
+The application could not find information at id(s) specified.
+
+Press enter to return to the main menu.
+
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> i:id 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 1
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 1
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> i:id 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 1
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 2
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> i:id
+
+Please enter the User ID you would like to issue a book to. Otherwise press enter to return to the main menu.
+
+> -1
+
+To perform this operation you must enter a valid ID.
+
+Please press enter to return to the selection menu.
+
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> i:id ----
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> i:id 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> i:id
+
+Please enter the User ID you would like to issue a book to. Otherwise press enter to return to the main menu.
+
+> 1111111
+
+Please enter the Book ID you would like to issue.
+
+> 1
+
+The application could not find information at id(s) specified.
+
+Press enter to return to the main menu.
+
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> i:id
+
+Please enter the User ID you would like to issue a book to. Otherwise press enter to return to the main menu.
+
+> 1
+
+Please enter the Book ID you would like to issue.
+
+> 2
+
+The system will attempt to issue...
+
+Book ID. Author Surname, Author Forename. Title. On Loan[?].
+
+2. Bishop, Judith. Java Gently. Yes.
+
+To user...
+
+User ID. Surname, Forename. Books Loaned.
+
+1. Brown, Zoe. 1.
+
+Please type 'yes' or 'y' to confirm the above details are correct. Please input any other data to return back to the main menu.
+
+> y
+
+The book is already on loan
+
+Wrote return notice to C:/librarydata/return notice.txt.
+
+Pressing enter will return you to the main menu.
+
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> i:id 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> i:id
+
+Please enter the User ID you would like to issue a book to. Otherwise press enter to return to the main menu.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> i:id
+
+Please enter the User ID you would like to issue a book to. Otherwise press enter to return to the main menu.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> i:id
+
+Please enter the User ID you would like to issue a book to. Otherwise press enter to return to the main menu.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> i:id
+
+Please enter the User ID you would like to issue a book to. Otherwise press enter to return to the main menu.
+
+> 1
+
+Please enter the Book ID you would like to issue.
+
+> 3
+
+The system will attempt to issue...
+
+Book ID. Author Surname, Author Forename. Title. On Loan[?].
+
+3. Hartley, Stephen J.. Concurrent Programming. No.
+
+To user...
+
+User ID. Surname, Forename. Books Loaned.
+
+1. Brown, Zoe. 1.
+
+Please type 'yes' or 'y' to confirm the above details are correct. Please input any other data to return back to the main menu.
+
+> y
+
+The book has been successfully issued to the user.
+Brown, Zoe has now loaned 2 items.
+Pressing enter will return you to the main menu.
+
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> i:id
+
+Please enter the User ID you would like to issue a book to. Otherwise press enter to return to the main menu.
+
+> 1 4
+
+To perform this operation you must enter a valid ID.
+
+Please press enter to return to the selection menu.
+
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> i:id 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 1
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 4
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> i:id 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> i:id
+
+Please enter the User ID you would like to issue a book to. Otherwise press enter to return to the main menu.
+
+> 1
+
+Please enter the Book ID you would like to issue.
+
+> 4
+
+The system will attempt to issue...
+
+Book ID. Author Surname, Author Forename. Title. On Loan[?].
+
+4. Reisig, Wolfgang. Petri Nets. No.
+
+To user...
+
+User ID. Surname, Forename. Books Loaned.
+
+1. Brown, Zoe. 2.
+
+Please type 'yes' or 'y' to confirm the above details are correct. Please input any other data to return back to the main menu.
+
+> 1
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> i:id
+
+Please enter the User ID you would like to issue a book to. Otherwise press enter to return to the main menu.
+
+> 1
+
+Please enter the Book ID you would like to issue.
+
+> 4
+
+The system will attempt to issue...
+
+Book ID. Author Surname, Author Forename. Title. On Loan[?].
+
+4. Reisig, Wolfgang. Petri Nets. No.
+
+To user...
+
+User ID. Surname, Forename. Books Loaned.
+
+1. Brown, Zoe. 2.
+
+Please type 'yes' or 'y' to confirm the above details are correct. Please input any other data to return back to the main menu.
+
+> y
+
+The book has been successfully issued to the user.
+Brown, Zoe has now loaned 3 items.
+Pressing enter will return you to the main menu.
+
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> i:id
+
+Please enter the User ID you would like to issue a book to. Otherwise press enter to return to the main menu.
+
+> 1
+
+Please enter the Book ID you would like to issue.
+
+> 5
+
+The system will attempt to issue...
+
+Book ID. Author Surname, Author Forename. Title. On Loan[?].
+
+5. Snow, C. R.. Concurrent Programming. No.
+
+To user...
+
+User ID. Surname, Forename. Books Loaned.
+
+1. Brown, Zoe. 3.
+
+Please type 'yes' or 'y' to confirm the above details are correct. Please input any other data to return back to the main menu.
+
+> y
+
+This user has already loaned out three books.
+
+Pressing enter will return you to the selection screen.
+
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> r:id
+
+Please enter the User ID you would like to return a book from.
+
+> 1
+
+Please enter the Book ID you would like to return.
+
+> 4
+
+The system will attempt to return...
+
+Book ID. Author Surname, Author Forename. Title. On Loan[?]
+
+4. Reisig, Wolfgang. Petri Nets. Yes.
+
+From user...
+
+User ID. Surname, Forename. Books Loaned.
+
+1. Brown, Zoe. 3.
+
+Please type 'yes' or 'y' to confirm the above details are correct. Please input any other data to return back to the main menu.
+
+> y
+
+The book has been successfully returned.
+Brown, Zoe has now loaned 2 items.
+
+Pressing enter will return you to the main menu.
+
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> r:id
+
+Please enter the User ID you would like to return a book from.
+
+> 1
+
+Please enter the Book ID you would like to return.
+
+> 5
+
+The system will attempt to return...
+
+Book ID. Author Surname, Author Forename. Title. On Loan[?]
+
+5. Snow, C. R.. Concurrent Programming. No.
+
+From user...
+
+User ID. Surname, Forename. Books Loaned.
+
+1. Brown, Zoe. 2.
+
+Please type 'yes' or 'y' to confirm the above details are correct. Please input any other data to return back to the main menu.
+
+> y
+
+The book is not on loan to this user.
+Pressing enter will return you to the main menu.
+
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> r:id
+
+Please enter the User ID you would like to return a book from.
+
+> 1
+
+Please enter the Book ID you would like to return.
+
+> 3
+
+The system will attempt to return...
+
+Book ID. Author Surname, Author Forename. Title. On Loan[?]
+
+3. Hartley, Stephen J.. Concurrent Programming. Yes.
+
+From user...
+
+User ID. Surname, Forename. Books Loaned.
+
+1. Brown, Zoe. 2.
+
+Please type 'yes' or 'y' to confirm the above details are correct. Please input any other data to return back to the main menu.
+
+> y
+
+The book has been successfully returned.
+Brown, Zoe has now loaned 1 items.
+
+Pressing enter will return you to the main menu.
+
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> r:id
+
+Please enter the User ID you would like to return a book from.
+
+> 1
+
+Please enter the Book ID you would like to return.
+
+> 1
+
+The system will attempt to return...
+
+Book ID. Author Surname, Author Forename. Title. On Loan[?]
+
+1. Arnold, Andre. Finite Transition Systems. Yes.
+
+From user...
+
+User ID. Surname, Forename. Books Loaned.
+
+1. Brown, Zoe. 1.
+
+Please type 'yes' or 'y' to confirm the above details are correct. Please input any other data to return back to the main menu.
+
+> y
+
+The book is not on loan to this user.
+Pressing enter will return you to the main menu.
+
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> r:id
+
+Please enter the User ID you would like to return a book from.
+
+> 1
+
+Please enter the Book ID you would like to return.
+
+> 2
+
+The system will attempt to return...
+
+Book ID. Author Surname, Author Forename. Title. On Loan[?]
+
+2. Bishop, Judith. Java Gently. Yes.
+
+From user...
+
+User ID. Surname, Forename. Books Loaned.
+
+1. Brown, Zoe. 1.
+
+Please type 'yes' or 'y' to confirm the above details are correct. Please input any other data to return back to the main menu.
+
+> y
+
+The book has been successfully returned.
+Brown, Zoe has now loaned 0 items.
+
+Pressing enter will return you to the main menu.
+
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> r:id
+
+Please enter the User ID you would like to return a book from.
+
+> 1
+
+Please enter the Book ID you would like to return.
+
+> 1
+
+The system will attempt to return...
+
+Book ID. Author Surname, Author Forename. Title. On Loan[?]
+
+1. Arnold, Andre. Finite Transition Systems. Yes.
+
+From user...
+
+User ID. Surname, Forename. Books Loaned.
+
+1. Brown, Zoe. 0.
+
+Please type 'yes' or 'y' to confirm the above details are correct. Please input any other data to return back to the main menu.
+
+> y
+
+The book is not on loan to this user.
+Pressing enter will return you to the main menu.
+
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> 
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> i
+
+Library Interactive System: issue
+
+Please select the details of the user, and book you would like to issue using the options below.
+1. User Details: 
+2. Book Details: 
+3. Submit
+4. Return to the previous menu.
+
+> 
+
+Library Interactive System: issue
+
+Please select the details of the user, and book you would like to issue using the options below.
+1. User Details: 
+2. Book Details: 
+3. Submit
+4. Return to the previous menu.
+
+> 
+
+Library Interactive System: issue
+
+Please select the details of the user, and book you would like to issue using the options below.
+1. User Details: 
+2. Book Details: 
+3. Submit
+4. Return to the previous menu.
+
+> 
+
+Library Interactive System: issue
+
+Please select the details of the user, and book you would like to issue using the options below.
+1. User Details: 
+2. Book Details: 
+3. Submit
+4. Return to the previous menu.
+
+> 
+
+Library Interactive System: issue
+
+Please select the details of the user, and book you would like to issue using the options below.
+1. User Details: 
+2. Book Details: 
+3. Submit
+4. Return to the previous menu.
+
+> 
+
+Library Interactive System: issue
+
+Please select the details of the user, and book you would like to issue using the options below.
+1. User Details: 
+2. Book Details: 
+3. Submit
+4. Return to the previous menu.
+
+> 
+
+Library Interactive System: issue
+
+Please select the details of the user, and book you would like to issue using the options below.
+1. User Details: 
+2. Book Details: 
+3. Submit
+4. Return to the previous menu.
+
+> 
+
+Library Interactive System: issue
+
+Please select the details of the user, and book you would like to issue using the options below.
+1. User Details: 
+2. Book Details: 
+3. Submit
+4. Return to the previous menu.
+
+> 
+
+Library Interactive System: issue
+
+Please select the details of the user, and book you would like to issue using the options below.
+1. User Details: 
+2. Book Details: 
+3. Submit
+4. Return to the previous menu.
+
+> 
+
+Library Interactive System: issue
+
+Please select the details of the user, and book you would like to issue using the options below.
+1. User Details: 
+2. Book Details: 
+3. Submit
+4. Return to the previous menu.
+
+> 
+
+Library Interactive System: issue
+
+Please select the details of the user, and book you would like to issue using the options below.
+1. User Details: 
+2. Book Details: 
+3. Submit
+4. Return to the previous menu.
+
+> 
+
+Library Interactive System: issue
+
+Please select the details of the user, and book you would like to issue using the options below.
+1. User Details: 
+2. Book Details: 
+3. Submit
+4. Return to the previous menu.
+
+> 
+
+Library Interactive System: issue
+
+Please select the details of the user, and book you would like to issue using the options below.
+1. User Details: 
+2. Book Details: 
+3. Submit
+4. Return to the previous menu.
+
+> 
+
+Library Interactive System: issue
+
+Please select the details of the user, and book you would like to issue using the options below.
+1. User Details: 
+2. Book Details: 
+3. Submit
+4. Return to the previous menu.
+
+> 
+
+Library Interactive System: issue
+
+Please select the details of the user, and book you would like to issue using the options below.
+1. User Details: 
+2. Book Details: 
+3. Submit
+4. Return to the previous menu.
+
+> 
+
+Library Interactive System: issue
+
+Please select the details of the user, and book you would like to issue using the options below.
+1. User Details: 
+2. Book Details: 
+3. Submit
+4. Return to the previous menu.
+
+> 
+
+Library Interactive System: issue
+
+Please select the details of the user, and book you would like to issue using the options below.
+1. User Details: 
+2. Book Details: 
+3. Submit
+4. Return to the previous menu.
+
+> 
+
+Library Interactive System: issue
+
+Please select the details of the user, and book you would like to issue using the options below.
+1. User Details: 
+2. Book Details: 
+3. Submit
+4. Return to the previous menu.
+
+> 
+
+Library Interactive System: issue
+
+Please select the details of the user, and book you would like to issue using the options below.
+1. User Details: 
+2. Book Details: 
+3. Submit
+4. Return to the previous menu.
+
+> 4
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> r
+
+Library Interactive System: return
+
+Please select the details of the user, and book you would like to return using the options below.
+1. User Details: 
+2. Book Details: 
+3. Submit
+4. Return to the previous menu.
+
+> 
+
+Library Interactive System: return
+
+Please select the details of the user, and book you would like to return using the options below.
+1. User Details: 
+2. Book Details: 
+3. Submit
+4. Return to the previous menu.
+
+> 
+
+Library Interactive System: return
+
+Please select the details of the user, and book you would like to return using the options below.
+1. User Details: 
+2. Book Details: 
+3. Submit
+4. Return to the previous menu.
+
+> 
+
+Library Interactive System: return
+
+Please select the details of the user, and book you would like to return using the options below.
+1. User Details: 
+2. Book Details: 
+3. Submit
+4. Return to the previous menu.
+
+> 
+
+Library Interactive System: return
+
+Please select the details of the user, and book you would like to return using the options below.
+1. User Details: 
+2. Book Details: 
+3. Submit
+4. Return to the previous menu.
+
+> 
+
+Library Interactive System: return
+
+Please select the details of the user, and book you would like to return using the options below.
+1. User Details: 
+2. Book Details: 
+3. Submit
+4. Return to the previous menu.
+
+> 
+
+Library Interactive System: return
+
+Please select the details of the user, and book you would like to return using the options below.
+1. User Details: 
+2. Book Details: 
+3. Submit
+4. Return to the previous menu.
+
+> 
+
+Library Interactive System: return
+
+Please select the details of the user, and book you would like to return using the options below.
+1. User Details: 
+2. Book Details: 
+3. Submit
+4. Return to the previous menu.
+
+> 
+
+Library Interactive System: return
+
+Please select the details of the user, and book you would like to return using the options below.
+1. User Details: 
+2. Book Details: 
+3. Submit
+4. Return to the previous menu.
+
+> 
+
+Library Interactive System: return
+
+Please select the details of the user, and book you would like to return using the options below.
+1. User Details: 
+2. Book Details: 
+3. Submit
+4. Return to the previous menu.
+
+> 
+
+Library Interactive System: return
+
+Please select the details of the user, and book you would like to return using the options below.
+1. User Details: 
+2. Book Details: 
+3. Submit
+4. Return to the previous menu.
+
+> 
+
+Library Interactive System: return
+
+Please select the details of the user, and book you would like to return using the options below.
+1. User Details: 
+2. Book Details: 
+3. Submit
+4. Return to the previous menu.
+
+> 
+
+Library Interactive System: return
+
+Please select the details of the user, and book you would like to return using the options below.
+1. User Details: 
+2. Book Details: 
+3. Submit
+4. Return to the previous menu.
+
+> 
+
+Library Interactive System: return
+
+Please select the details of the user, and book you would like to return using the options below.
+1. User Details: 
+2. Book Details: 
+3. Submit
+4. Return to the previous menu.
+
+> 1
+
+Would you like to input the User ID or would you like to search by other details? Press enter to return to the previous selection screen.
+1. User ID.
+2. Other details (either user forename or user surname) This is a case-sensitive operation.
+u. Print a list of all users to the screen.
+
+> 1
+
+Please enter the User ID you would like to search by...
+
+> -1
+
+A User ID must be an integer over 0.
+Please press enter to return to the selection screen
+
+
+Library Interactive System: return
+
+Please select the details of the user, and book you would like to return using the options below.
+1. User Details: 
+2. Book Details: 
+3. Submit
+4. Return to the previous menu.
+
+> 1
+
+Would you like to input the User ID or would you like to search by other details? Press enter to return to the previous selection screen.
+1. User ID.
+2. Other details (either user forename or user surname) This is a case-sensitive operation.
+u. Print a list of all users to the screen.
+
+> 1
+
+Please enter the User ID you would like to search by...
+
+> 1
+
+Library Interactive System: return
+
+Please select the details of the user, and book you would like to return using the options below.
+1. User Details: [User ID] 1
+2. Book Details: 
+3. Submit
+4. Return to the previous menu.
+
+> 2
+
+Would you like to input the Book ID or would you like to search by other details? Press enter to return to the previous selection screen.
+1. Book ID.
+2. Other details (either author forename, surname, or book title). This is a case-sensitive operation.
+b. Print a list of all books to the screen.
+
+> 1
+
+Please enter the Book ID you would like to search by...
+
+> 1
+
+Library Interactive System: return
+
+Please select the details of the user, and book you would like to return using the options below.
+1. User Details: [User ID] 1
+2. Book Details: [Book ID] 1
+3. Submit
+4. Return to the previous menu.
+
+> 3
+
+Searching users...
+
+Success.
+
+Searching books...
+
+The system will attempt to return...
+
+Book ID. Author Surname, Author Forename. Title. On Loan[?]
+
+1. Arnold, Andre. Finite Transition Systems. Yes.
+
+From user...
+
+User ID. Surname, Forename. Books Loaned.
+
+1. Brown, Zoe. 0.
+
+Please type 'yes' or 'y' to confirm the above details are correct. Please input any other data to return back to the main menu.
+
+> y
+
+The book is not on loan to this user.
+Pressing enter will return you to the main menu.
+
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> r
+
+Library Interactive System: return
+
+Please select the details of the user, and book you would like to return using the options below.
+1. User Details: 
+2. Book Details: 
+3. Submit
+4. Return to the previous menu.
+
+> 1
+
+Would you like to input the User ID or would you like to search by other details? Press enter to return to the previous selection screen.
+1. User ID.
+2. Other details (either user forename or user surname) This is a case-sensitive operation.
+u. Print a list of all users to the screen.
+
+> 2
+
+Please enter additional details (either forename or surname) you would like to search by...
+
+> John
+
+Library Interactive System: return
+
+Please select the details of the user, and book you would like to return using the options below.
+1. User Details: John
+2. Book Details: 
+3. Submit
+4. Return to the previous menu.
+
+> 2
+
+Would you like to input the Book ID or would you like to search by other details? Press enter to return to the previous selection screen.
+1. Book ID.
+2. Other details (either author forename, surname, or book title). This is a case-sensitive operation.
+b. Print a list of all books to the screen.
+
+> 2
+
+Please enter additional details (Author, Title .etc.) you would like to search by...
+
+> Programming
+
+Library Interactive System: return
+
+Please select the details of the user, and book you would like to return using the options below.
+1. User Details: John
+2. Book Details: Programming
+3. Submit
+4. Return to the previous menu.
+
+> 3
+
+Searching users...
+
+Users have been found and are presented below...
+
+User ID. Surname, Forename. Books Loaned.
+
+3. Smith, John. 0.
+4. Williams, John. 0.
+
+Please select a User ID in order to narrow the search. Pressing enter will return you to the selection screen.
+
+> 3
+
+Success.
+
+Searching books...
+Books have been found and are presented below...
+Book ID. Author Surname, Author Forename(s). Title. On Loan[?].
+
+3. Hartley, Stephen J..Concurrent Programming. No.
+5. Snow, C. R..Concurrent Programming. No.
+
+Please select a Book ID in order to narrow the search. Pressing enter will return you to the selection screen.
+
+> 5
+
+The system will attempt to return...
+
+Book ID. Author Surname, Author Forename. Title. On Loan[?]
+
+5. Snow, C. R.. Concurrent Programming. No.
+
+From user...
+
+User ID. Surname, Forename. Books Loaned.
+
+3. Smith, John. 0.
+
+Please type 'yes' or 'y' to confirm the above details are correct. Please input any other data to return back to the main menu.
+
+> y
+
+The book is not on loan to this user.
+Pressing enter will return you to the main menu.
+
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> f
+
+Goodbye.
+
+
+###TEST 2###
+
+
+
+Please enter the path to the file (with extension) containing the data you would like to import, or type 'f' to exit.
+Alternatively, pressing enter will use the file at the default path 'C:/librarydata/inputdata.txt' for your operating system.
+
+> 
+
+Success!
+
+Welcome to the application!
+
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> help
+
+The commands available from the main menu are...
+
+b - to display on the screen the information about all the books in the library. 
+u - display on the screen the information about all the users.
+i - to update the stored data when a book is issued to a user.
+i:id - to update the stored data when a book is issued to a user by IDs only.
+r - to update the stored data when a user returns a book to the library.
+r:id - to update the stored data when a user returns a book to the library by IDs only.
+f - terminate the application.
+
+Please press enter to continue.
+
+b
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> b
+
+Book ID. Author Surname, Author Forename. Title. On Loan[?].
+
+1. Arnold, Andre. Finite Transition Systems. No.
+2. Bishop, Judith. Java Gently. No.
+3. Hartley, Stephen J.. Concurrent Programming. No.
+4. Reisig, Wolfgang. Petri Nets. No.
+5. Snow, C. R.. Concurrent Programming. No.
+
+Please press enter to continue.
+
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> u
+
+User ID. Surname, Forename. Books Loaned.
+
+1. Brown, Zoe. 0.
+2. Smith, Anna. 0.
+3. Smith, John. 0.
+4. Williams, John. 0.
+
+Please press enter to continue.
+i
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> i
+
+Library Interactive System: issue
+
+Please select the details of the user, and book you would like to issue using the options below.
+1. User Details: 
+2. Book Details: 
+3. Submit
+4. Return to the previous menu.
+
+> 1
+
+Would you like to input the User ID or would you like to search by other details? Press enter to return to the previous selection screen.
+1. User ID.
+2. Other details (either user forename or user surname) This is a case-sensitive operation.
+u. Print a list of all users to the screen.
+
+> 1
+
+Please enter the User ID you would like to search by...
+
+> 1
+
+Library Interactive System: issue
+
+Please select the details of the user, and book you would like to issue using the options below.
+1. User Details: [User ID] 1
+2. Book Details: 
+3. Submit
+4. Return to the previous menu.
+
+> 2
+
+Would you like to input the Book ID or would you like to search by other details? Press enter to return to the previous selection screen.
+1. Book ID.
+2. Other details (either author forename, surname, or book title). This is a case-sensitive operation.
+b. Print a list of all books to the screen.
+
+> 1
+
+Please enter the Book ID you would like to search by...
+
+> 5
+
+Library Interactive System: issue
+
+Please select the details of the user, and book you would like to issue using the options below.
+1. User Details: [User ID] 1
+2. Book Details: [Book ID] 5
+3. Submit
+4. Return to the previous menu.
+
+> 3
+
+Searching users...
+
+Success.
+
+Searching books...
+
+The system will attempt to issue...
+
+Book ID. Author Surname, Author Forename. Title. On Loan[?].
+
+5. Snow, C. R.. Concurrent Programming. No.
+
+To user...
+
+User ID. Surname, Forename. Books Loaned.
+
+1. Brown, Zoe. 0.
+
+Please type 'yes' or 'y' to confirm the above details are correct. Please input any other data to return back to the main menu.
+
+> y
+
+The book has been successfully issued to the user.
+Brown, Zoe has now loaned 1 items.
+Pressing enter will return you to the main menu.
+
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> i:id
+
+Please enter the User ID you would like to issue a book to. Otherwise press enter to return to the main menu.
+
+> 2
+
+Please enter the Book ID you would like to issue.
+
+> 4
+
+The system will attempt to issue...
+
+Book ID. Author Surname, Author Forename. Title. On Loan[?].
+
+4. Reisig, Wolfgang. Petri Nets. No.
+
+To user...
+
+User ID. Surname, Forename. Books Loaned.
+
+2. Smith, Anna. 0.
+
+Please type 'yes' or 'y' to confirm the above details are correct. Please input any other data to return back to the main menu.
+
+> y
+
+The book has been successfully issued to the user.
+Smith, Anna has now loaned 1 items.
+Pressing enter will return you to the main menu.
+
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> i
+
+Library Interactive System: issue
+
+Please select the details of the user, and book you would like to issue using the options below.
+1. User Details: 
+2. Book Details: 
+3. Submit
+4. Return to the previous menu.
+
+> 1
+
+Would you like to input the User ID or would you like to search by other details? Press enter to return to the previous selection screen.
+1. User ID.
+2. Other details (either user forename or user surname) This is a case-sensitive operation.
+u. Print a list of all users to the screen.
+
+> 2
+
+Please enter additional details (either forename or surname) you would like to search by...
+
+> Smith
+
+Library Interactive System: issue
+
+Please select the details of the user, and book you would like to issue using the options below.
+1. User Details: Smith
+2. Book Details: 
+3. Submit
+4. Return to the previous menu.
+
+> 2
+
+Would you like to input the Book ID or would you like to search by other details? Press enter to return to the previous selection screen.
+1. Book ID.
+2. Other details (either author forename, surname, or book title). This is a case-sensitive operation.
+b. Print a list of all books to the screen.
+
+> 2
+
+Please enter additional details (Author, Title .etc.) you would like to search by...
+
+> Concurrent Programming
+
+Library Interactive System: issue
+
+Please select the details of the user, and book you would like to issue using the options below.
+1. User Details: Smith
+2. Book Details: Concurrent Programming
+3. Submit
+4. Return to the previous menu.
+
+> 3
+
+Searching users...
+
+Users have been found and are presented below...
+
+User ID. Surname, Forename. Books Loaned.
+
+2. Smith, Anna. 1.
+3. Smith, John. 0.
+
+Please select a User ID in order to narrow the search. Pressing enter will return you to the selection screen.
+
+> 3
+
+Success.
+
+Searching books...
+
+Books have been found and are presented below...
+Book ID. Author Surname, Author Forename(s). Title. On Loan[?].
+
+3. Hartley, Stephen J..Concurrent Programming. No.
+5. Snow, C. R..Concurrent Programming. Yes.
+
+Please select a Book ID in order to narrow the search. Pressing enter will return you to the selection screen.
+
+> 3
+
+The system will attempt to issue...
+
+Book ID. Author Surname, Author Forename. Title. On Loan[?].
+
+3. Hartley, Stephen J.. Concurrent Programming. No.
+
+To user...
+
+User ID. Surname, Forename. Books Loaned.
+
+3. Smith, John. 0.
+
+Please type 'yes' or 'y' to confirm the above details are correct. Please input any other data to return back to the main menu.
+
+> y
+
+The book has been successfully issued to the user.
+Smith, John has now loaned 1 items.
+Pressing enter will return you to the main menu.
+
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> r:id
+
+Please enter the User ID you would like to return a book from.
+
+> 3
+
+Please enter the Book ID you would like to return.
+
+> 3
+
+The system will attempt to return...
+
+Book ID. Author Surname, Author Forename. Title. On Loan[?]
+
+3. Hartley, Stephen J.. Concurrent Programming. Yes.
+
+From user...
+
+User ID. Surname, Forename. Books Loaned.
+
+3. Smith, John. 1.
+
+Please type 'yes' or 'y' to confirm the above details are correct. Please input any other data to return back to the main menu.
+
+> y
+
+The book has been successfully returned.
+Smith, John has now loaned 0 items.
+
+Pressing enter will return you to the main menu.
+
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> i:id
+
+Please enter the User ID you would like to issue a book to. Otherwise press enter to return to the main menu.
+
+> 2
+
+Please enter the Book ID you would like to issue.
+
+> 3
+
+The system will attempt to issue...
+
+Book ID. Author Surname, Author Forename. Title. On Loan[?].
+
+3. Hartley, Stephen J.. Concurrent Programming. No.
+
+To user...
+
+User ID. Surname, Forename. Books Loaned.
+
+2. Smith, Anna. 1.
+
+Please type 'yes' or 'y' to confirm the above details are correct. Please input any other data to return back to the main menu.
+
+> y
+
+The book has been successfully issued to the user.
+Smith, Anna has now loaned 2 items.
+Pressing enter will return you to the main menu.
+
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> help
+
+The commands available from the main menu are...
+
+b - to display on the screen the information about all the books in the library. 
+u - display on the screen the information about all the users.
+i - to update the stored data when a book is issued to a user.
+i:id - to update the stored data when a book is issued to a user by IDs only.
+r - to update the stored data when a user returns a book to the library.
+r:id - to update the stored data when a user returns a book to the library by IDs only.
+f - terminate the application.
+
+Please press enter to continue.
+
+b
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> b
+
+Book ID. Author Surname, Author Forename. Title. On Loan[?].
+
+1. Arnold, Andre. Finite Transition Systems. No.
+2. Bishop, Judith. Java Gently. No.
+3. Hartley, Stephen J.. Concurrent Programming. Yes.
+4. Reisig, Wolfgang. Petri Nets. Yes.
+5. Snow, C. R.. Concurrent Programming. Yes.
+
+Please press enter to continue.
+
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> u
+
+User ID. Surname, Forename. Books Loaned.
+
+1. Brown, Zoe. 1.
+2. Smith, Anna. 2.
+3. Smith, John. 0.
+4. Williams, John. 0.
+
+Please press enter to continue.
+
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> i:id
+
+Please enter the User ID you would like to issue a book to. Otherwise press enter to return to the main menu.
+
+> 4
+
+Please enter the Book ID you would like to issue.
+
+> 1
+
+The system will attempt to issue...
+
+Book ID. Author Surname, Author Forename. Title. On Loan[?].
+
+1. Arnold, Andre. Finite Transition Systems. No.
+
+To user...
+
+User ID. Surname, Forename. Books Loaned.
+
+4. Williams, John. 0.
+
+Please type 'yes' or 'y' to confirm the above details are correct. Please input any other data to return back to the main menu.
+
+> y
+
+The book has been successfully issued to the user.
+Williams, John has now loaned 1 items.
+Pressing enter will return you to the main menu.
+
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> i
+
+Library Interactive System: issue
+
+Please select the details of the user, and book you would like to issue using the options below.
+1. User Details: 
+2. Book Details: 
+3. Submit
+4. Return to the previous menu.
+
+> 1
+
+Would you like to input the User ID or would you like to search by other details? Press enter to return to the previous selection screen.
+1. User ID.
+2. Other details (either user forename or user surname) This is a case-sensitive operation.
+u. Print a list of all users to the screen.
+
+> 1
+
+Please enter the User ID you would like to search by...
+
+> 2
+
+Library Interactive System: issue
+
+Please select the details of the user, and book you would like to issue using the options below.
+1. User Details: [User ID] 2
+2. Book Details: 
+3. Submit
+4. Return to the previous menu.
+
+> 2
+
+Would you like to input the Book ID or would you like to search by other details? Press enter to return to the previous selection screen.
+1. Book ID.
+2. Other details (either author forename, surname, or book title). This is a case-sensitive operation.
+b. Print a list of all books to the screen.
+
+> 2
+
+Please enter additional details (Author, Title .etc.) you would like to search by...
+
+> Java 
+
+Library Interactive System: issue
+
+Please select the details of the user, and book you would like to issue using the options below.
+1. User Details: [User ID] 2
+2. Book Details: Java 
+3. Submit
+4. Return to the previous menu.
+
+> 1
+
+Would you like to input the User ID or would you like to search by other details? Press enter to return to the previous selection screen.
+1. User ID.
+2. Other details (either user forename or user surname) This is a case-sensitive operation.
+u. Print a list of all users to the screen.
+
+> 1
+
+Please enter the User ID you would like to search by...
+
+> 3
+
+Library Interactive System: issue
+
+Please select the details of the user, and book you would like to issue using the options below.
+1. User Details: [User ID] 3
+2. Book Details: Java 
+3. Submit
+4. Return to the previous menu.
+
+> 3
+
+Searching users...
+
+Success.
+
+Searching books...
+
+The system will attempt to issue...
+
+Book ID. Author Surname, Author Forename. Title. On Loan[?].
+
+2. Bishop, Judith. Java Gently. No.
+
+To user...
+
+User ID. Surname, Forename. Books Loaned.
+
+3. Smith, John. 0.
+
+Please type 'yes' or 'y' to confirm the above details are correct. Please input any other data to return back to the main menu.
+
+> y
+
+The book has been successfully issued to the user.
+Smith, John has now loaned 1 items.
+Pressing enter will return you to the main menu.
+
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> b
+
+Book ID. Author Surname, Author Forename. Title. On Loan[?].
+
+1. Arnold, Andre. Finite Transition Systems. Yes.
+2. Bishop, Judith. Java Gently. Yes.
+3. Hartley, Stephen J.. Concurrent Programming. Yes.
+4. Reisig, Wolfgang. Petri Nets. Yes.
+5. Snow, C. R.. Concurrent Programming. Yes.
+
+Please press enter to continue.
+u
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> u
+
+User ID. Surname, Forename. Books Loaned.
+
+1. Brown, Zoe. 1.
+2. Smith, Anna. 2.
+3. Smith, John. 1.
+4. Williams, John. 1.
+
+Please press enter to continue.
+
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> i
+
+Library Interactive System: issue
+
+Please select the details of the user, and book you would like to issue using the options below.
+1. User Details: 
+2. Book Details: 
+3. Submit
+4. Return to the previous menu.
+
+> 1
+
+Would you like to input the User ID or would you like to search by other details? Press enter to return to the previous selection screen.
+1. User ID.
+2. Other details (either user forename or user surname) This is a case-sensitive operation.
+u. Print a list of all users to the screen.
+
+> 1
+
+Please enter the User ID you would like to search by...
+
+> 1
+
+Library Interactive System: issue
+
+Please select the details of the user, and book you would like to issue using the options below.
+1. User Details: [User ID] 1
+2. Book Details: 
+3. Submit
+4. Return to the previous menu.
+
+> 2
+
+Would you like to input the Book ID or would you like to search by other details? Press enter to return to the previous selection screen.
+1. Book ID.
+2. Other details (either author forename, surname, or book title). This is a case-sensitive operation.
+b. Print a list of all books to the screen.
+
+> 3
+
+Library Interactive System: issue
+
+Please select the details of the user, and book you would like to issue using the options below.
+1. User Details: [User ID] 1
+2. Book Details: 
+3. Submit
+4. Return to the previous menu.
+
+> 2
+
+Would you like to input the Book ID or would you like to search by other details? Press enter to return to the previous selection screen.
+1. Book ID.
+2. Other details (either author forename, surname, or book title). This is a case-sensitive operation.
+b. Print a list of all books to the screen.
+
+> 1
+
+Please enter the Book ID you would like to search by...
+
+> 3
+
+Library Interactive System: issue
+
+Please select the details of the user, and book you would like to issue using the options below.
+1. User Details: [User ID] 1
+2. Book Details: [Book ID] 3
+3. Submit
+4. Return to the previous menu.
+
+> 3
+
+Searching users...
+
+Success.
+
+Searching books...
+
+The system will attempt to issue...
+
+Book ID. Author Surname, Author Forename. Title. On Loan[?].
+
+3. Hartley, Stephen J.. Concurrent Programming. Yes.
+
+To user...
+
+User ID. Surname, Forename. Books Loaned.
+
+1. Brown, Zoe. 1.
+
+Please type 'yes' or 'y' to confirm the above details are correct. Please input any other data to return back to the main menu.
+
+> y
+
+The book is already on loan
+
+Wrote return notice to C:/librarydata/return notice.txt.
+
+Pressing enter will return you to the main menu.
+
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> u
+
+User ID. Surname, Forename. Books Loaned.
+
+1. Brown, Zoe. 1.
+2. Smith, Anna. 2.
+3. Smith, John. 1.
+4. Williams, John. 1.
+
+Please press enter to continue.
+b
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> b
+
+Book ID. Author Surname, Author Forename. Title. On Loan[?].
+
+1. Arnold, Andre. Finite Transition Systems. Yes.
+2. Bishop, Judith. Java Gently. Yes.
+3. Hartley, Stephen J.. Concurrent Programming. Yes.
+4. Reisig, Wolfgang. Petri Nets. Yes.
+5. Snow, C. R.. Concurrent Programming. Yes.
+
+Please press enter to continue.
+
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> r:id
+
+Please enter the User ID you would like to return a book from.
+
+> 3
+
+Please enter the Book ID you would like to return.
+
+> 2
+
+The system will attempt to return...
+
+Book ID. Author Surname, Author Forename. Title. On Loan[?]
+
+2. Bishop, Judith. Java Gently. Yes.
+
+From user...
+
+User ID. Surname, Forename. Books Loaned.
+
+3. Smith, John. 1.
+
+Please type 'yes' or 'y' to confirm the above details are correct. Please input any other data to return back to the main menu.
+
+> y
+
+The book has been successfully returned.
+Smith, John has now loaned 0 items.
+
+Pressing enter will return you to the main menu.
+
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> r
+
+Library Interactive System: return
+
+Please select the details of the user, and book you would like to return using the options below.
+1. User Details: 
+2. Book Details: 
+3. Submit
+4. Return to the previous menu.
+
+> 1
+
+Would you like to input the User ID or would you like to search by other details? Press enter to return to the previous selection screen.
+1. User ID.
+2. Other details (either user forename or user surname) This is a case-sensitive operation.
+u. Print a list of all users to the screen.
+
+> 2
+
+Please enter additional details (either forename or surname) you would like to search by...
+
+> Brown
+
+Library Interactive System: return
+
+Please select the details of the user, and book you would like to return using the options below.
+1. User Details: Brown
+2. Book Details: 
+3. Submit
+4. Return to the previous menu.
+
+> 2
+
+Would you like to input the Book ID or would you like to search by other details? Press enter to return to the previous selection screen.
+1. Book ID.
+2. Other details (either author forename, surname, or book title). This is a case-sensitive operation.
+b. Print a list of all books to the screen.
+
+> Concurrent Programming
+
+Library Interactive System: return
+
+Please select the details of the user, and book you would like to return using the options below.
+1. User Details: Brown
+2. Book Details: 
+3. Submit
+4. Return to the previous menu.
+
+> 2
+
+Would you like to input the Book ID or would you like to search by other details? Press enter to return to the previous selection screen.
+1. Book ID.
+2. Other details (either author forename, surname, or book title). This is a case-sensitive operation.
+b. Print a list of all books to the screen.
+
+> Concurrent Programming. 
+
+Library Interactive System: return
+
+Please select the details of the user, and book you would like to return using the options below.
+1. User Details: Brown
+2. Book Details: 
+3. Submit
+4. Return to the previous menu.
+
+> 2
+
+Would you like to input the Book ID or would you like to search by other details? Press enter to return to the previous selection screen.
+1. Book ID.
+2. Other details (either author forename, surname, or book title). This is a case-sensitive operation.
+b. Print a list of all books to the screen.
+
+> 2
+
+Please enter additional details (Author, Title .etc.) you would like to search by...
+
+> Concurrent Programming
+
+Library Interactive System: return
+
+Please select the details of the user, and book you would like to return using the options below.
+1. User Details: Brown
+2. Book Details: Concurrent Programming
+3. Submit
+4. Return to the previous menu.
+
+> 3
+
+Searching users...
+
+Success.
+
+Searching books...
+
+Books have been found and are presented below...
+Book ID. Author Surname, Author Forename(s). Title. On Loan[?].
+
+3. Hartley, Stephen J..Concurrent Programming. Yes.
+5. Snow, C. R..Concurrent Programming. Yes.
+
+Please select a Book ID in order to narrow the search. Pressing enter will return you to the selection screen.
+
+> 5
+
+The system will attempt to return...
+
+Book ID. Author Surname, Author Forename. Title. On Loan[?]
+
+5. Snow, C. R.. Concurrent Programming. Yes.
+
+From user...
+
+User ID. Surname, Forename. Books Loaned.
+
+1. Brown, Zoe. 1.
+
+Please type 'yes' or 'y' to confirm the above details are correct. Please input any other data to return back to the main menu.
+
+> y
+
+The book has been successfully returned.
+Brown, Zoe has now loaned 0 items.
+
+Pressing enter will return you to the main menu.
+
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> r:id
+
+Please enter the User ID you would like to return a book from.
+
+> 3
+
+Please enter the Book ID you would like to return.
+
+> 5
+
+The system will attempt to return...
+
+Book ID. Author Surname, Author Forename. Title. On Loan[?]
+
+5. Snow, C. R.. Concurrent Programming. No.
+
+From user...
+
+User ID. Surname, Forename. Books Loaned.
+
+3. Smith, John. 0.
+
+Please type 'yes' or 'y' to confirm the above details are correct. Please input any other data to return back to the main menu.
+
+> y
+
+The book is not on loan to this user.
+Pressing enter will return you to the main menu.
+
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> u
+
+User ID. Surname, Forename. Books Loaned.
+
+1. Brown, Zoe. 0.
+2. Smith, Anna. 2.
+3. Smith, John. 0.
+4. Williams, John. 1.
+
+Please press enter to continue.
+b
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> b
+
+Book ID. Author Surname, Author Forename. Title. On Loan[?].
+
+1. Arnold, Andre. Finite Transition Systems. Yes.
+2. Bishop, Judith. Java Gently. No.
+3. Hartley, Stephen J.. Concurrent Programming. Yes.
+4. Reisig, Wolfgang. Petri Nets. Yes.
+5. Snow, C. R.. Concurrent Programming. No.
+
+Please press enter to continue.
+
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> help
+
+The commands available from the main menu are...
+
+b - to display on the screen the information about all the books in the library. 
+u - display on the screen the information about all the users.
+i - to update the stored data when a book is issued to a user.
+i:id - to update the stored data when a book is issued to a user by IDs only.
+r - to update the stored data when a user returns a book to the library.
+r:id - to update the stored data when a user returns a book to the library by IDs only.
+f - terminate the application.
+
+Please press enter to continue.
+
+f
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> f
+
+Goodbye.
+
+##TEST 3##
+
+"C:\Program Files\Java\jdk1.8.0_111\bin\java" -Didea.launcher.port=7533 "-Didea.launcher.bin.path=C:\Program Files (x86)\JetBrains\IntelliJ IDEA 2016.2.5\bin" -Dfile.encoding=UTF-8 -classpath "C:\Program Files\Java\jdk1.8.0_111\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\deploy.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\access-bridge-64.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\cldrdata.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\dnsns.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\jaccess.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\jfxrt.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\localedata.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\nashorn.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\sunec.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\sunjce_provider.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\sunmscapi.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\sunpkcs11.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\zipfs.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\javaws.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\jfxswt.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\management-agent.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\plugin.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\rt.jar;C:\Users\mmacheerpuppy\Google Drive\Study\Newcastle University Hub\CSC8001\Assignment 3\Assignment3\out\production\Assignment3;C:\Program Files (x86)\JetBrains\IntelliJ IDEA 2016.2.5\lib\idea_rt.jar" com.intellij.rt.execution.application.AppMain LibraryIO
+Library Interactive System: Initialisation
+
+Please enter the path to the file (with extension) containing the data you would like to import, or type 'f' to exit.
+Alternatively, pressing enter will use the file at the default path 'C:/librarydata/inputdata.txt' for your operating system.
+
+> 
+
+Success!
+
+Welcome to the application!
+
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> i:id
+
+Please enter the User ID you would like to issue a book to. Otherwise press enter to return to the main menu.
+
+> 1
+
+Please enter the Book ID you would like to issue.
+
+> 1
+
+The system will attempt to issue...
+
+Book ID. Author Surname, Author Forename. Title. On Loan[?].
+
+1. Arnold, Andre. Finite Transition Systems. No.
+
+To user...
+
+User ID. Surname, Forename. Books Loaned.
+
+1. Brown, Zoe. 0.
+
+Please type 'yes' or 'y' to confirm the above details are correct. Please input any other data to return back to the main menu.
+
+> y
+
+The book has been successfully issued to the user.
+Brown, Zoe has now loaned 1 items.
+Pressing enter will return you to the main menu.
+
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> i:id
+
+Please enter the User ID you would like to issue a book to. Otherwise press enter to return to the main menu.
+
+> 2
+
+Please enter the Book ID you would like to issue.
+
+> 1
+
+The system will attempt to issue...
+
+Book ID. Author Surname, Author Forename. Title. On Loan[?].
+
+1. Arnold, Andre. Finite Transition Systems. Yes.
+
+To user...
+
+User ID. Surname, Forename. Books Loaned.
+
+2. Smith, Anna. 0.
+
+Please type 'yes' or 'y' to confirm the above details are correct. Please input any other data to return back to the main menu.
+
+> y
+
+The book is already on loan
+
+Wrote return notice to C:/librarydata/return notice.txt.
+
+Pressing enter will return you to the main menu.
+
+Library Interactive System: Main Menu
+
+Please select a command. Type help for a list of commands.
+
+> f
+
+Goodbye.
+
+Process finished with exit code 0
