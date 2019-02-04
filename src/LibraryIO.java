@@ -6,9 +6,6 @@ import java.util.Scanner;
 /**
  * <h1>Library</h1>
  * <p>
- * This application is designed as a demonstrative tool to fulfill the specifications of the "Assessed Coursework 2: Interactive System" assignment for CSC8001.
- * </p>
- * <p>
  * This task is to design and implement an object oriented program which is able to take an input of library data from a file of a specific format containing users and books, and allow a user (librarian) to return and issue books to those users.
  * It is specified the system must take user input before displaying that interactive system. This functionality has been extended to default directories for different operating systems. In the case those default directories cannot be detected a user is able to specify directories they are familiar with (forward error handling). Further details on how the input file is read is documented in the LibraryFileReader class.
  * It is specified the system must contain at least the commands f (finish running the program), b (to display on the screen the information about all the books in the library), u (to display on the screen the information about all the users), i (to update the stored data when a book is issued to a user), and r (to update the stored data when a user returns a book to the library).
@@ -35,7 +32,7 @@ import java.util.Scanner;
  * The only method public in this class is the main method as the main method must always be used as the starting point for the execution of this interface: it is only possible for the user interface to be initialized before data has been read.
  * </p>
  * <p>
- * Special thanks to Steve Riddle, Marta Koutny and the demonstrators of CSC8001 who helped me understand the Java language and documentation. I hope you enjoy the application.
+ * Special thanks to Steve Riddle, Marta Koutny who helped me understand the Java language and documentation. I hope you enjoy the application.
  * </p>
  */
 public class LibraryIO {
