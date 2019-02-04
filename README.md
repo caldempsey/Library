@@ -1,5 +1,6 @@
 # Books
-Exercise coding a book application
+
+Exercise coding a Library console application
 
 This task is to design and implement an object oriented program which is able to take an input of library data from a file of a specific format containing users and books, and allow a user (librarian) to return and issue books to those users.
 
